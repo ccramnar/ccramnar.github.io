@@ -17,6 +17,7 @@
 	main {
 		max-width: 1400px;
        	margin: 50px auto;
+		   background-color: var(--background);
 	}
 
 	footer {
@@ -24,6 +25,5 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		padding: 40px;
 	}
 </style>

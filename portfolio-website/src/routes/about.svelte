@@ -25,11 +25,13 @@
 		  <h2 class="about-title">I'm Cyanne Ramnarine🌸</h2>
 		  <div class="about-subtitle">
 			  <p>
-				4A Computer Science Student at the University of Waterloo.
+				4A Computer Science Student at the University of Waterloo! 
+			  </p>
+			  <p> I have had the pleasure of interning at Christie Digital Systems, Bluescape and Maxon Computer where 
+				  I have had the opportunity to work on developing software and tools and gain experience in the software industry. 
 			  </p>
 			  <p>
-				Creating magic daily on the internet. You can send me
-				 an email at <span class="info-text">ccramnar@uwaterloo.ca</span>
+				You can send me an email at <span class="info-text">ccramnar@uwaterloo.ca</span>
 			  </p>
 			  <p> My Hobbies include photography, video games, reading and meeting new people!</p>
 		  </div>
@@ -38,19 +40,19 @@
  </div>
 
 <style>
-	 .main_container {
-       margin: 0 80px 0 65px;
+	.main_container {
+       margin: 0 80px 0 80px;
    }
    .about-title {
        font-size: 4.2rem;
        font-weight: bold;
-       margin-top: 11rem;
+       margin-top: 1rem;
    }
    .about-subtitle {
        margin-top: -2rem;
    }
    .about-subtitle >p {
-       width: 60%;
+       width: 100%;
        font-weight: normal;
        font-size: 1rem;
        line-height: 2rem;
